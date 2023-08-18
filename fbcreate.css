@@ -1,0 +1,33 @@
+/* @import url(./fb.css); */
+
+
+input{
+   /* margin-top: 20px; */
+    width:300px;
+    height: 30px;
+}
+div{
+    padding-bottom: 20px;
+    padding-left: 35%;
+}
+fieldset{
+    border: 2px solid black;
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+button{
+    width:200px;
+    height: 40px;
+    border-radius: 20px;
+    margin-left: 10%;
+    background-color: blue;
+    color:white;
+    font-size: 15px;
+}
+aside{
+    background-color: red;
+    width:300px;
+    height: 30px;
+    text-align: center;
+}
